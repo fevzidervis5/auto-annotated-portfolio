@@ -11,7 +11,7 @@ backgroundImage:
   url: /images/bg2.jpg
 sections:
   - type: MediaGallerySection
-    title: Gallery
+    title: ''
     subtitle: ''
     images:
       - type: ImageBlock
