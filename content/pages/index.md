@@ -58,6 +58,11 @@ sections:
           - pl-7
           - pr-7
         justifyContent: center
+        margin:
+          - mt-6
+          - ml-6
+          - mb-6
+          - mr-6
       title:
         textAlign: center
       subtitle:
