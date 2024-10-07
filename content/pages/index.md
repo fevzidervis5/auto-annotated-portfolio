@@ -15,7 +15,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/Internet_٢٠٢٤١٠٠٣_٠٩٢٩٠٦_1.webp
         altText: Image one
         caption: Image one caption
         elementId: ''
