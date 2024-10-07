@@ -63,6 +63,7 @@ sections:
           - ml-0
           - mb-0
           - mr-0
+        borderRadius: xx-large
       title:
         textAlign: center
       subtitle:
