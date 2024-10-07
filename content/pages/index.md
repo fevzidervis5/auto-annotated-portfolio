@@ -59,10 +59,10 @@ sections:
           - pr-0
         justifyContent: center
         margin:
-          - mt-6
-          - ml-6
-          - mb-6
-          - mr-6
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
       title:
         textAlign: center
       subtitle:
