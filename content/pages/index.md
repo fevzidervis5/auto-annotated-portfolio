@@ -53,10 +53,10 @@ sections:
         height: screen
         width: full
         padding:
-          - pt-1
-          - pb-1
-          - pl-1
-          - pr-1
+          - pt-7
+          - pb-7
+          - pl-7
+          - pr-7
         justifyContent: center
       title:
         textAlign: center
